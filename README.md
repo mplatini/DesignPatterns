@@ -37,3 +37,5 @@ They use inheritance to compose interfaces and define ways to compose objects to
 9. Strategy: allows one of a family of algorithms to be selected on-the-fly at runtime.
 10. Template: method defines the skeleton of an algorithm as an abstract class, allowing its subclasses to provide concrete behavior.
 11. Visitor: separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+
+ps: definitions from Wikipedia.

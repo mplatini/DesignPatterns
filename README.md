@@ -1,7 +1,9 @@
 DesignPatterns
 ==============
 
-Examples (by Platini) about all design patterns from GoF.
+Examples (by Platini) about all Design Patterns from GoF.
+
+Before, some definitions...
 
 - Creational Pattern -> Creational patterns are ones that create objects for you, rather than having you instantiate objects directly. 
 This gives your program more flexibility in deciding which objects need to be created for a given case.
@@ -38,4 +40,4 @@ They use inheritance to compose interfaces and define ways to compose objects to
 10. Template: method defines the skeleton of an algorithm as an abstract class, allowing its subclasses to provide concrete behavior.
 11. Visitor: separates an algorithm from an object structure by moving the hierarchy of methods into one object.
 
-ps: definitions from Wikipedia.
+ps: definitions by Wikipedia.
